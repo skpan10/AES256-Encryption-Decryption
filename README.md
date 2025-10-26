@@ -57,3 +57,39 @@ AES256-Encryption-Decryption/
 ## 🎥 Demo
 ![AES256 Encryption & Decryption Demo](https://github.com/skpan10/AES256-Encryption-Decryption/issues/1#issue-3553374952)
 
+# 🧩 How to Run Locally  
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/skpan10/AES256-Encryption-Decryption.git
+
+# 2️⃣ Navigate into project folder
+cd AES256-Encryption-Decryption
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start local server
+npm start
+
+🧠 Future Enhancements
+
+Add hybrid encryption (AES + RSA)
+
+Integrate hashing (SHA-256 / HMAC)
+
+Add encryption visualizer UI
+
+Build an API-based encryption service
+
+📜 License
+
+This project is licensed under the MIT License — free to use and modify for learning or production.
+
+👨‍💻 Author
+
+Saransh Kumar Pandey
+Cyber Security Engineer | Developer | Security Enthusiast
+
+🌐 GitHub: @skpan10
+🔗 LinkedIn: Saransh Kumar Pandey
